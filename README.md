@@ -7,3 +7,5 @@ You need to create a Google Developer Console Account and create a OAuth2.0 Key 
 Read more here: https://developers.google.com/drive/api/v3/enable-drive-api?hl=en&authuser=2
 
 PyDrive: https://pypi.org/project/PyDrive/
+
+Watch the video how this code was created: https://www.youtube.com/watch?v=kvV4m-xJy1k
